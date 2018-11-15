@@ -1,6 +1,6 @@
-# IS457 Homework 8
+# IS457 Homework 9
 
-For Homework 8 we will be exploring the unix style command shell. We are providing two primary ways to gain access to a unix command shell. The first is through Whole Tale (WT), and the second is through Docker. Try to use WT first and if the service is down or you prefer, you can try the Docker method. Both are listed here.
+For Homework 9 we will be exploring the unix style command shell. We are providing two primary ways to gain access to a unix command shell. The first is through Whole Tale (WT), and the second is through Docker. Try to use WT first and if the service is down or you prefer, you can try the Docker method. Both are listed here.
 
 ## Using Whole Tale
 
@@ -11,7 +11,7 @@ For Homework 8 we will be exploring the unix style command shell. We are providi
 5. Select the 'Jupyter Notebook' entry under the 'Environments' window on the upper right of the page.
 6. Press the 'Launch New Tale' button, and wait for jupyter to be launched.
 7. Within the Jupyter window, we now will upload the necessary files. Click the 'Upload' button in the Jupyter window and select all necessary files for this homework.
-8. After all data necessary has been uploaded, Select the 'New' drop-down menu which is next to the 'Upload' button, and select the 'Terminal' option. This will launch a bash terminal which we will now use for Homework 8!
+8. After all data necessary has been uploaded, Select the 'New' drop-down menu which is next to the 'Upload' button, and select the 'Terminal' option. This will launch a bash terminal which we will now use for Homework 9!
 
 ## Installing Docker
 
